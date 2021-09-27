@@ -1,0 +1,54 @@
+AZ, ID, Name, PrivateIP, Profile, PublicIP, State, Type
+ap-southeast-1a,i-0aa16e86d470322c2,TPRUWBVETID1 (BaoViet UAT DB Server),10.10.100.134,107904351556,18.138.169.38,running,t2.small
+ap-southeast-1a,i-0d97beea11ecfc94a,TPRUWBVETEA1 (BaoViet UAT APP Server),10.10.100.10,107904351556,3.1.188.87,running,t2.medium
+ap-southeast-1a,i-0c2e5bb07e5b48383,TPRUWBVETEW1 (BaoViet UAT Web Server),10.10.100.167,107904351556,52.74.133.196,running,t2.medium
+ap-south-1a,i-0238e5835a0b9fa6f,None,172.31.31.56,458469071611,None,stopped,t2.medium
+ap-south-1a,i-0ed84f515e23cadea,Rocket API,172.31.25.185,458469071611,13.126.20.118,running,t2.medium
+ap-south-1a,i-0811f5b4a56a2be57,Rocket API DB,172.31.22.199,458469071611,None,running,t2.large
+ap-south-1a,i-0cccb3c86e5c2df8a,TAOS API DB,172.31.29.42,458469071611,None,stopped,t2.large
+ap-south-1a,i-0d7c9b2373d1cfbbd,TPMDLROCKEW1,172.31.25.214,458469071611,None,stopped,t2.small
+ap-south-1a,i-03773a06fe452fefa,TPMDLROCKEW3,172.31.29.38,458469071611,None,stopped,t2.small
+ap-south-1a,i-0456c130e7aefb7e2,App1,172.31.27.200,458469071611,None,stopped,t2.medium
+ap-south-1a,i-0b2a4bca25bf7b802,TPMDLROCKIA3,172.31.25.154,458469071611,None,stopped,t2.medium
+ap-south-1a,i-0a8dcded52731ed11,GW,172.31.23.117,458469071611,None,stopped,t2.medium
+ap-south-1a,i-02de09fc215d6796a,MG1,172.31.20.229,458469071611,None,stopped,t2.medium
+ap-south-1a,i-04cfb4a8856867238,ES1,172.31.27.148,458469071611,None,stopped,t2.large
+ap-south-1a,i-0f37d85f0042af0d5,TPMDLROCKID3,172.31.24.69,458469071611,None,stopped,t2.medium
+ap-south-1a,i-08270ea23e0882214,TPMDLROCKEA1,172.31.27.183,458469071611,13.233.190.62,running,m4.xlarge
+ap-south-1a,i-03c540c4ee4bb4d18,TPMDLROCKEA3,172.31.24.195,458469071611,13.127.205.172,running,m4.large
+ap-south-1a,i-00b7df575408912ae,TPMDLROCKEA2,172.31.16.164,458469071611,13.235.94.66,running,m4.xlarge
+ap-south-1a,i-0d02da35fb146b41f,TPMDLROCKEA4,172.31.28.211,458469071611,35.154.20.7,running,m4.large
+ap-south-1b,i-076cbc7654a7e62e3,Rocket data,172.31.10.158,458469071611,None,stopped,d2.xlarge
+ap-south-1b,i-0f864ed6224c83d6b,Rocket apps,172.31.9.188,458469071611,None,stopped,c4.xlarge
+ap-south-1b,i-0e481352b54ebb30c,TAOS API Web,172.31.6.65,458469071611,None,stopped,t2.medium
+ap-south-1a,i-0d51fed435226f4b6,TPMDLROCKIA2 (Docker Manager),172.31.24.238,458469071611,None,stopped,t2.large
+ap-south-1a,i-0d5473669662166d3,TPMDLROCKIA4 (Docker Worker),172.31.21.170,458469071611,None,stopped,t2.large
+ap-south-1a,i-090af815545fffe3b,TPMDLROCKIA1 (Docker Manager),172.31.21.1,458469071611,None,stopped,t2.large
+ap-south-1a,i-0af638807d0f887af,TPMDLROCKIA3 (Docker Worker),172.31.16.65,458469071611,None,stopped,t2.large
+ap-south-1a,i-07c5cbe1358041817,TPMDLROCKIA5 (PentahoElasticKibana Server),172.31.20.40,458469071611,None,stopped,t2.large
+ap-south-1a,i-0ac71f4fd22fe32f0,TPMDLROCKID1 (Postgres MongoDB),172.31.30.229,458469071611,None,stopped,t2.large
+ap-south-1a,i-01e565a4894a622aa,TPMDLROCKIA6 (Jenkins),172.31.16.106,458469071611,13.235.224.49,running,t2.large
+ap-south-1a,i-07dc20c0a02728b25,TPMDLROCKIA7 (Docker Registry),172.31.16.32,458469071611,13.233.61.225,running,t2.medium
+ap-south-1a,i-0ead8d1fa01dc5cc3,TPMDLROCKID2 (Postgres),172.31.30.141,458469071611,None,stopped,t3a.medium
+ap-south-1a,i-01a4d9f7c218eccb9,TPMDLROCKIA8 (UMS),172.31.25.42,458469071611,None,stopped,t3a.medium
+ap-south-1a,i-0b07422a26c511c76,TPMDLROCKID3 (Mongo),172.31.19.178,458469071611,None,stopped,t3a.medium
+ap-south-1a,i-06718c4d6566141e7,TPMDLROCKIA9 (CMS),172.31.23.24,458469071611,None,stopped,t3a.large
+ap-south-1a,i-055a66ded2d9831c6,TPMDLROCKID4 (Elastic_Search),172.31.22.6,458469071611,None,stopped,t3a.large
+ap-south-1a,i-0e36322c11e58c8d7,TPMDLROCKIG1 (Gateway),172.31.24.128,458469071611,None,stopped,t3a.small
+ap-south-1a,i-030254d6f2d43c67c,TPMDLROCKIW1 (RS_Web),172.31.28.143,458469071611,None,stopped,t3a.small
+ap-south-1a,i-09cfdef33f0d46c1b,TPMDLROCKIW2 (RS_BO),172.31.31.124,458469071611,None,stopped,t3a.small
+ap-southeast-1c,i-0ef25fd810f955fd9,AirAsia Web Monitor,192.168.110.168,745065323772,3.0.73.122,stopped,t2.micro
+ap-southeast-1b,i-e0a0cb6e,AirAsia Microsite - UAT (old),172.31.18.20,927211634413,52.221.81.67,stopped,t2.medium
+ap-southeast-1b,i-002ea2d934e325410,Cambodia Angkor Air Microsite - UAT,172.31.20.156,927211634413,52.74.254.197,stopped,t2.small
+ap-southeast-1b,i-0db515d32173c86c4,Scheduler-Shire,172.31.29.82,927211634413,52.77.144.220,stopped,t2.micro
+ap-southeast-1b,i-001649af3e1e86dd9,TP Corporate Website,172.31.29.176,927211634413,13.250.242.210,running,t2.medium
+ap-southeast-1b,i-0b64d9bfb26552f55,AirAsia Microsite - UAT,172.31.30.25,927211634413,13.229.44.39,running,t2.medium
+ap-southeast-1a,i-cc1244e4,T2P-WINSVR2012- WEBAPP (COI),172.31.26.129,486778388221,54.255.173.192,running,m1.medium
+ap-southeast-1a,i-6337604b,Tune2Protect Web Service Host Applications,172.31.20.71,486778388221,54.255.161.250,running,m3.medium
+ap-southeast-1a,i-6437604c,Tune2Protect Web Service Host Applications,172.31.20.72,486778388221,54.255.160.150,running,m1.medium
+ap-southeast-1a,i-6537604d,T2P-WINSVR2012-WEBSERVICE01 (ZEUS API server 1),172.31.20.73,486778388221,54.255.159.173,running,m1.medium
+ap-southeast-1a,i-51356279,Tune2Protect ZEUS MSSQL2012 Database,172.31.31.176,486778388221,52.221.250.170,running,m4.xlarge
+ap-southeast-1a,i-5235627a,Tune2Protect ZEUS MSSQL2012 Database,172.31.31.175,486778388221,None,stopped,m1.medium
+ap-southeast-1a,i-0b4d50cf4e66ab4df,T2P-WINSVR2019-WEBIIS02 (B2B website & Microsite),172.31.25.191,486778388221,54.251.186.103,running,t2.medium
+ap-southeast-1a,i-06414e1f84e025351,T2P-WINSVR2019-WEBAPP (ECEP Claims),172.31.18.76,486778388221,13.228.73.49,running,t2.medium
+ap-southeast-1a,i-065d0495374b9e701,T2P-WINSVR2019-UAT (UAT etc),172.31.24.200,486778388221,13.228.30.233,running,t2.medium
